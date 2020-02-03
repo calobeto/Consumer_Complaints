@@ -9,7 +9,7 @@ The project consist on of these parts
 - Import the dataset
 - Clean the dataframe : nulls, convert string dates to dates, correct some product name, etc
 - Do some exploratory data analysis
-- Apply Word Cleaning, Feature engineering and TF-IDF vector representation
+- Apply word cleaning, Feature engineering and TF-IDF vector representation
 - Use Linear Support Vector machine Classifier
 - Evaluate the model
 
